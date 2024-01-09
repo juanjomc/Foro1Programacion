@@ -16,7 +16,6 @@ public class Pregunta4 {
 		
 //		Entramos en el while y hasta que no se cumple la contraseña no nos deja continuar.
 		
-		
 		System.out.println("Introduzca la contraseña.");
 		password=sc.nextInt();
 		
